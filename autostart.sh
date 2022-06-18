@@ -1,3 +1,3 @@
 fcitx5 -d
-picom &
+compton &
 feh --bg-fill ~/Pictures/yubanmeiqin.png
